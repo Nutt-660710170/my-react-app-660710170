@@ -31,8 +31,6 @@ function App() {
       </main>
       
 
-      {/* Footer - แสดงในทุกหน้า */}
-      <Footer />
     </div>
   );
 }
